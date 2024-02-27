@@ -44,9 +44,9 @@ function App() {
 
       <h2>Contact Us</h2>
 
-      <p>If you have any questions or concerns about this Privacy Policy, please contact us at <a href="mailto:contact@walkapp.com">contact@walkapp.com</a>.</p>
+      <p>If you have any questions or concerns about this Privacy Policy, please contact us at <a href="mailto:abuelyazid.software@gail.com">abuelyazid.software@gail.com</a>.</p>
 
-      <p><strong>Last Updated</strong>: [Insert Date]</p>
+      <p><strong>Last Updated</strong>: 27/2/2024</p>
 
       <p>By using the Walk App, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the App.</p>
     </div>
