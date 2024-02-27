@@ -6,13 +6,12 @@ function App() {
     <div>
       <h1>Privacy Policy for Walk App</h1>
 
-      <p>This Privacy Policy describes how Walk ("we", "us", or "our") collects, uses, shares, and protects your information when you use our mobile application called Walk (the "App"). By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.</p>
+      <p>This Privacy Policy describes how Walk  collects, uses, shares, and protects your information when you use our mobile application called Walk (the "App"). By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.</p>
 
       <h2>Information We Collect</h2>
 
       <ol>
         <li><strong>Location Information</strong>: Walk collects your location information to provide services such as finding parking areas nearby and navigating to your current location.</li>
-        <li><strong>Device Information</strong>: We may collect certain information about your mobile device, including the device model, operating system version, unique device identifiers, and mobile network information.</li>
       </ol>
 
       <h2>How We Use Your Information</h2>
